@@ -31,8 +31,8 @@ int main(void)
     if (tab == NULL)
     {
         printf("Failed\n");
-	return (1);
+        return (1);
     }
     print_tab(tab);
-	return (0);
+    return (0);
 }
